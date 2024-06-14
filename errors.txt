@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 23: end of line expected.
-    show PeebHappy.png
-                  ^
+File "game/script.rpy", line 51: expected 'image_name_component' not found.
+    scene "images/other/bg_Germany.jpg"
+          ^
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Fri May 24 13:46:35 2024
+Mon Jun 10 23:53:29 2024
