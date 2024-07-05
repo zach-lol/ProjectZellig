@@ -43,7 +43,7 @@ label dont_start:
     show peeb happy
 
     peeb "Oh hi, how the hell did you get in by the way?"
-    peeb "Oh hk;ijfdsnlkdffvkjay?"
+    peeb "Oh hk;ijfdsnljkn;kjnfvkjay?"
 
     peeb "I locked the door"
 
